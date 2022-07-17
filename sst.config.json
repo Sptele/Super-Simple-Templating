@@ -1,0 +1,5 @@
+{
+    "delimeter": "$%",
+    "braces": "{}",
+    "allow-name-delimitation": true
+}
