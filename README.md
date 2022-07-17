@@ -12,7 +12,7 @@ This is the simplest form of templating. You only type in the delimiter, and it 
 
 You can access this method through the `template` method:
 ```js
-import template from "super-simple-templating/src/templater.js
+import template from "super-simple-templating/src/templater.js"
 ```
 Then, call it like this:
 ```js
